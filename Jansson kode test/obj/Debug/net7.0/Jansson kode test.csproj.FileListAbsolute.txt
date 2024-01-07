@@ -1,0 +1,17 @@
+D:\Ting\C#Projects\Jansson kode test\Jansson kode test\bin\Debug\net7.0\Jansson kode test.exe
+D:\Ting\C#Projects\Jansson kode test\Jansson kode test\bin\Debug\net7.0\Jansson kode test.deps.json
+D:\Ting\C#Projects\Jansson kode test\Jansson kode test\bin\Debug\net7.0\Jansson kode test.runtimeconfig.json
+D:\Ting\C#Projects\Jansson kode test\Jansson kode test\bin\Debug\net7.0\Jansson kode test.dll
+D:\Ting\C#Projects\Jansson kode test\Jansson kode test\bin\Debug\net7.0\Jansson kode test.pdb
+D:\Ting\C#Projects\Jansson kode test\Jansson kode test\bin\Debug\net7.0\RestSharp.dll
+D:\Ting\C#Projects\Jansson kode test\Jansson kode test\obj\Debug\net7.0\Jansson kode test.csproj.AssemblyReference.cache
+D:\Ting\C#Projects\Jansson kode test\Jansson kode test\obj\Debug\net7.0\Jansson kode test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ting\C#Projects\Jansson kode test\Jansson kode test\obj\Debug\net7.0\Jansson kode test.AssemblyInfoInputs.cache
+D:\Ting\C#Projects\Jansson kode test\Jansson kode test\obj\Debug\net7.0\Jansson kode test.AssemblyInfo.cs
+D:\Ting\C#Projects\Jansson kode test\Jansson kode test\obj\Debug\net7.0\Jansson kode test.csproj.CoreCompileInputs.cache
+D:\Ting\C#Projects\Jansson kode test\Jansson kode test\obj\Debug\net7.0\Jansson kode test.csproj.CopyComplete
+D:\Ting\C#Projects\Jansson kode test\Jansson kode test\obj\Debug\net7.0\Jansson kode test.dll
+D:\Ting\C#Projects\Jansson kode test\Jansson kode test\obj\Debug\net7.0\refint\Jansson kode test.dll
+D:\Ting\C#Projects\Jansson kode test\Jansson kode test\obj\Debug\net7.0\Jansson kode test.pdb
+D:\Ting\C#Projects\Jansson kode test\Jansson kode test\obj\Debug\net7.0\Jansson kode test.genruntimeconfig.cache
+D:\Ting\C#Projects\Jansson kode test\Jansson kode test\obj\Debug\net7.0\ref\Jansson kode test.dll
