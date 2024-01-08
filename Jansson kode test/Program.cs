@@ -16,7 +16,6 @@ class Program
         
         while (access_token == "") 
         {
-            //Mangler måske en måde at checke på at username ikke er tom, men det bliver teknisk set valideret hvis man ikke får token
             Console.WriteLine("Please enter a username");
             username = Console.ReadLine();
 
@@ -49,7 +48,7 @@ class Program
                 Console.WriteLine($"Error attempting to get access token: {ex.Message}");
             }
         }
-        //På en eller anden måde, skal den sørge for at det er et validt token som den bruger.
+
         var getProfileRequest = new RestRequest("profile/detailed", Method.Get);
         if (expires <= DateTime.UtcNow)
         {
@@ -73,7 +72,14 @@ class Program
         }
 
     }
-
+/// <summary>
+/// Takes a RestClient and a refresh token to generate a new access token.
+/// </summary>
+/// <param name="client"></param>
+/// <param name="refresh_token"></param>
+/// <returns>
+/// String array with new access token and refresh token
+/// </returns>
        static string[] refreshAccessToken (RestClient client, string refresh_token)
        {
 
